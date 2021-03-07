@@ -1,4 +1,4 @@
-### <a herf="https://reactrouter-easley-b61f74.netlify.app/" target="_blank">Live Site</a>
+### Live Site: https://reactrouter-easley-b61f74.netlify.app/
 
 # Getting Started with Create React App
 
